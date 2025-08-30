@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'screens/onboarding_screen.dart';
 
 void main() {
   runApp(const SafeCampusApp());
@@ -11,12 +10,30 @@ class SafeCampusApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'SafeCampus',
+      title: 'Safe Campus',
       theme: ThemeData(
-        colorSchemeSeed: Colors.blue,
-        useMaterial3: true,
+        primarySwatch: Colors.blue,
       ),
-      home: const OnboardingScreen(),
+      home: const HomePage(),
+    );
+  }
+}
+
+class HomePage extends StatelessWidget {
+  const HomePage({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Safe Campus Demo'),
+      ),
+      body: const Center(
+        child: Text(
+          'Hello, Safe Campus!',
+          style: TextStyle(fontSize: 24),
+        ),
+      ),
     );
   }
 }
