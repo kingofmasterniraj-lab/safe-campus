@@ -1,0 +1,42 @@
+[
+  {
+    "moduleId": "earthquake_basics",
+    "questions": [
+      {
+        "q": "During an earthquake, what should you do?",
+        "options": [
+          "Run to the balcony",
+          "Drop, Cover, and Hold",
+          "Use the elevator",
+          "Stand near windows"
+        ],
+        "answerIndex": 1
+      },
+      {
+        "q": "After shaking stops, you should:",
+        "options": [
+          "Use lifts to exit",
+          "Evacuate calmly to open ground",
+          "Return to class immediately",
+          "Call friends"
+        ],
+        "answerIndex": 1
+      }
+    ]
+  },
+  {
+    "moduleId": "fire_safety",
+    "questions": [
+      {
+        "q": "If smoke fills the corridor, you should:",
+        "options": [
+          "Walk normally",
+          "Crawl low under smoke",
+          "Open all windows",
+          "Wait in the classroom"
+        ],
+        "answerIndex": 1
+      }
+    ]
+  }
+]

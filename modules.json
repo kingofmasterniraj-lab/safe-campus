@@ -1,0 +1,23 @@
+[
+  {
+    "id": "earthquake_basics",
+    "title": "Earthquake Safety Basics",
+    "summary": "Drop, Cover, Hold. Identify safe spots in rooms and practice evacuation routes.",
+    "content": "During an earthquake: DROP to your hands and knees, COVER your head and neck under sturdy furniture, and HOLD ON until shaking stops. Stay away from windows. After shaking: evacuate calmly to open ground and check for injuries.",
+    "estimated_minutes": 5
+  },
+  {
+    "id": "fire_safety",
+    "title": "Fire Safety & Evacuation",
+    "summary": "Know exits, avoid lifts, feel doors for heat, crawl below smoke.",
+    "content": "If fire alarm sounds: evacuate using stairs, never elevators. If smoke is present, stay low and cover nose/mouth with cloth. If a door is hot, do not open it. Assemble at the muster point and report to teacher.",
+    "estimated_minutes": 5
+  },
+  {
+    "id": "flood_readiness",
+    "title": "Flood Readiness",
+    "summary": "Move to higher ground, avoid walking/driving through flood water.",
+    "content": "During floods: listen to authorities, move to higher floors, switch off electricity if safe. Never enter moving water. Keep emergency kit ready with water, food, torch, power bank, and key documents in waterproof bags.",
+    "estimated_minutes": 4
+  }
+]
